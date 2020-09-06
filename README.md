@@ -7,6 +7,7 @@
   <li>Script uses a trained classifier that helps to indetify cars.</li>
   <li>Trained classifier is imported from XML file.</li>
   <li>It recognizes car on any video you specify in the programm</li>
+  <br>
   <img src="images/traffic.gif">
   <li>Gif lowers video quality</li>
 </ul>
