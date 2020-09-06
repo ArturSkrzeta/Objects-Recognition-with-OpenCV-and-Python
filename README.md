@@ -9,6 +9,6 @@
   <li>It recognizes car on any video you specify in the programm</li>
   <br>
   <img src="images/traffic.gif">
-  <li>Gif lowers video quality. Vide is cut for gif creation. Script works with any cars video.</li>
+  <li>Gif lowers video quality. Video is cut for gif creation. Script works with any cars video.</li>
 </ul>
 
